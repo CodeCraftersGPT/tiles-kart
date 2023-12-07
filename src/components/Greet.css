@@ -1,0 +1,30 @@
+
+.firstName {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.lastName {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.greet {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.greet h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.greet p {
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
